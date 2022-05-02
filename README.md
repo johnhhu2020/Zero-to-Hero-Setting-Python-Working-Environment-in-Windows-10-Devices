@@ -2,7 +2,7 @@
 
 
 
-
+```
 Microsoft Windows [Version 10.0.17763.2867]
 (c) 2018 Microsoft Corporation. All rights reserved.
 
@@ -63,3 +63,4 @@ Successfully installed numpy-1.22.3+mkl
 
 
 C:\Users\JJ\Downloads\numpy-1.22.3+mkl-cp310-cp310-win_amd64.whl
+```
